@@ -35,7 +35,7 @@
 - **one** → *Sad*  
 - **two** → *Trash(Drissnia)*  
 
-(Добавляй свои ключи и плейлисты в [voice.py](.assistants/voice.py) используя `playlist_keywords`)
+(Добавляй свои ключи и плейлисты в [voice.py](assistants/voice.py) используя `playlist_keywords`)
 
 ---
 
