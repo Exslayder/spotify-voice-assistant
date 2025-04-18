@@ -1,0 +1,14 @@
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+SPOTIPY_CLIENT_ID = os.getenv("SPOTIPY_CLIENT_ID")
+SPOTIPY_CLIENT_SECRET = os.getenv("SPOTIPY_CLIENT_SECRET")
+SPOTIPY_REDIRECT_URI = os.getenv("SPOTIPY_REDIRECT_URI")
+
+PORCUPINE_KEY = os.getenv("PORCUPINE_KEY")
+PORCUPINE_KEYWORD_PATH = os.getenv("PORCUPINE_KEYWORD_PATH")
+VOSK_MODEL_PATH = os.getenv("VOSK_MODEL_PATH")
+
+PHRASE_AUDIO_DIR = os.getenv("PHRASE_AUDIO_DIR")

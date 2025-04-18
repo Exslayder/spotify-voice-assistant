@@ -1,0 +1,8 @@
+pyaudio
+vosk
+sounddevice
+pvporcupine
+pvrecorder
+spotipy
+pygame
+python-dotenv
